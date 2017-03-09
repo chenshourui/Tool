@@ -1,0 +1,23 @@
+# 忽略myeclipse配置文件
+*.metadata
+*.myeclipse
+.mymetadate
+.project
+.classpath
+*META-INF
+*/.settings/*
+
+# 忽略所有java编译后文件
+*.class
+*.jar
+*/target
+*/target/*
+
+#忽略git冲突备份文件
+*.bak
+
+# 忽略所有 ~ 结尾的文件
+*~
+
+# 忽略所有 .o .a 结尾的文件
+*.[oa]
