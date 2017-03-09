@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ToolClass"
+  id="myeclipse.1489072006157"
+  context-root="/ToolClass"
+  j2ee-spec="6.0"
+  archive="ToolClass.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
